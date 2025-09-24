@@ -1,0 +1,7 @@
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppNetFramework\bin\Debug\ConsoleAppNetFramework.exe.config
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppNetFramework\bin\Debug\ConsoleAppNetFramework.exe
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppNetFramework\bin\Debug\ConsoleAppNetFramework.pdb
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppNetFramework\obj\Debug\ConsoleAppNetFramework.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppNetFramework\obj\Debug\ConsoleAppNetFramework.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppNetFramework\obj\Debug\ConsoleAppNetFramework.exe
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppNetFramework\obj\Debug\ConsoleAppNetFramework.pdb

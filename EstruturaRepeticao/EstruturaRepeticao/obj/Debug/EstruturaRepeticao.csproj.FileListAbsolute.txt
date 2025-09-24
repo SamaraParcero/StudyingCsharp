@@ -1,0 +1,8 @@
+G:\ProjetosGithub\CursoCSharp\EstruturaRepeticao\EstruturaRepeticao\bin\Debug\EstruturaRepeticao.exe.config
+G:\ProjetosGithub\CursoCSharp\EstruturaRepeticao\EstruturaRepeticao\bin\Debug\EstruturaRepeticao.exe
+G:\ProjetosGithub\CursoCSharp\EstruturaRepeticao\EstruturaRepeticao\bin\Debug\EstruturaRepeticao.pdb
+G:\ProjetosGithub\CursoCSharp\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\EstruturaRepeticao.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\EstruturaRepeticao.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\EstruturaRepeticao.exe
+G:\ProjetosGithub\CursoCSharp\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\EstruturaRepeticao.pdb
+G:\ProjetosGithub\CursoCSharp\EstruturaRepeticao\EstruturaRepeticao\obj\Debug\EstruturaRepeticao.exe.config

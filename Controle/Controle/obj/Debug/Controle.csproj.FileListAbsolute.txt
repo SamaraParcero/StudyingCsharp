@@ -1,0 +1,8 @@
+G:\ProjetosGithub\CursoCSharp\Controle\Controle\bin\Debug\Controle.exe.config
+G:\ProjetosGithub\CursoCSharp\Controle\Controle\bin\Debug\Controle.exe
+G:\ProjetosGithub\CursoCSharp\Controle\Controle\bin\Debug\Controle.pdb
+G:\ProjetosGithub\CursoCSharp\Controle\Controle\obj\Debug\Controle.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\Controle\Controle\obj\Debug\Controle.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\Controle\Controle\obj\Debug\Controle.exe
+G:\ProjetosGithub\CursoCSharp\Controle\Controle\obj\Debug\Controle.pdb
+G:\ProjetosGithub\CursoCSharp\Controle\Controle\obj\Debug\Controle.exe.config

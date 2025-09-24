@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ProjetosGithub\\CursoCSharp\\OlaMundo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06CEB917-FC93-4C38-A84D-7FA4AFC99143}|OlaMundo\\OlaMundo.csproj|g:\\projetosgithub\\cursocsharp\\olamundo\\olamundo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06CEB917-FC93-4C38-A84D-7FA4AFC99143}|OlaMundo\\OlaMundo.csproj|solutionrelative:olamundo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CEB917-FC93-4C38-A84D-7FA4AFC99143}|OlaMundo\\OlaMundo.csproj|g:\\projetosgithub\\cursocsharp\\olamundo\\olamundo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CEB917-FC93-4C38-A84D-7FA4AFC99143}|OlaMundo\\OlaMundo.csproj|solutionrelative:olamundo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963E7E04-46C0-41D1-9DB5-693E5D03743C}|FormsAppNetFramework\\FormsAppNetFramework.csproj|g:\\projetosgithub\\cursocsharp\\olamundo\\formsappnetframework\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{963E7E04-46C0-41D1-9DB5-693E5D03743C}|FormsAppNetFramework\\FormsAppNetFramework.csproj|solutionrelative:formsappnetframework\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963E7E04-46C0-41D1-9DB5-693E5D03743C}|FormsAppNetFramework\\FormsAppNetFramework.csproj|g:\\projetosgithub\\cursocsharp\\olamundo\\formsappnetframework\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963E7E04-46C0-41D1-9DB5-693E5D03743C}|FormsAppNetFramework\\FormsAppNetFramework.csproj|solutionrelative:formsappnetframework\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C310B6C-CF70-4831-93FE-3AFBB739A29E}|ConsoleAppDotnet\\ConsoleAppDotnet.csproj|g:\\projetosgithub\\cursocsharp\\olamundo\\consoleappdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C310B6C-CF70-4831-93FE-3AFBB739A29E}|ConsoleAppDotnet\\ConsoleAppDotnet.csproj|solutionrelative:consoleappdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63038ABE-E037-4F44-AE93-0782B3758FA0}|ConsoleAppTopLevel\\ConsoleAppTopLevel.csproj|g:\\projetosgithub\\cursocsharp\\olamundo\\consoleapptoplevel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63038ABE-E037-4F44-AE93-0782B3758FA0}|ConsoleAppTopLevel\\ConsoleAppTopLevel.csproj|solutionrelative:consoleapptoplevel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\OlaMundo\\OlaMundo\\Form1.cs",
+              "RelativeDocumentMoniker": "OlaMundo\\Form1.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\OlaMundo\\OlaMundo\\Form1.cs",
+              "RelativeToolTip": "OlaMundo\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T20:16:49.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\OlaMundo\\OlaMundo\\Form1.cs",
+              "RelativeDocumentMoniker": "OlaMundo\\Form1.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\OlaMundo\\OlaMundo\\Form1.cs [Design]",
+              "RelativeToolTip": "OlaMundo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T20:16:15.33Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\OlaMundo\\FormsAppNetFramework\\Form1.resx",
+              "RelativeDocumentMoniker": "FormsAppNetFramework\\Form1.resx",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\OlaMundo\\FormsAppNetFramework\\Form1.resx",
+              "RelativeToolTip": "FormsAppNetFramework\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-15T20:16:08.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\OlaMundo\\FormsAppNetFramework\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FormsAppNetFramework\\Form1.Designer.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\OlaMundo\\FormsAppNetFramework\\Form1.Designer.cs",
+              "RelativeToolTip": "FormsAppNetFramework\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T20:16:04.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\OlaMundo\\ConsoleAppTopLevel\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppTopLevel\\Program.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\OlaMundo\\ConsoleAppTopLevel\\Program.cs",
+              "RelativeToolTip": "ConsoleAppTopLevel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T19:57:25.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\OlaMundo\\ConsoleAppDotnet\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppDotnet\\Program.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\OlaMundo\\ConsoleAppDotnet\\Program.cs",
+              "RelativeToolTip": "ConsoleAppDotnet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T19:55:55.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

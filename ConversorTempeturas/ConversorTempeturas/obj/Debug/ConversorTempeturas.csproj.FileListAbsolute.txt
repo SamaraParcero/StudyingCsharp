@@ -1,0 +1,8 @@
+G:\ProjetosGithub\CursoCSharp\ConversorTempeturas\ConversorTempeturas\bin\Debug\ConversorTempeturas.exe.config
+G:\ProjetosGithub\CursoCSharp\ConversorTempeturas\ConversorTempeturas\bin\Debug\ConversorTempeturas.exe
+G:\ProjetosGithub\CursoCSharp\ConversorTempeturas\ConversorTempeturas\bin\Debug\ConversorTempeturas.pdb
+G:\ProjetosGithub\CursoCSharp\ConversorTempeturas\ConversorTempeturas\obj\Debug\ConversorTempeturas.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\ConversorTempeturas\ConversorTempeturas\obj\Debug\ConversorTempeturas.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\ConversorTempeturas\ConversorTempeturas\obj\Debug\ConversorTempeturas.exe
+G:\ProjetosGithub\CursoCSharp\ConversorTempeturas\ConversorTempeturas\obj\Debug\ConversorTempeturas.pdb
+G:\ProjetosGithub\CursoCSharp\ConversorTempeturas\ConversorTempeturas\obj\Debug\ConversorTempeturas.exe.config

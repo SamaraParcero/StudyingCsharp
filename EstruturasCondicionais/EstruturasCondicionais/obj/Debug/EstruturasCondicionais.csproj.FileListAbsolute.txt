@@ -1,0 +1,8 @@
+G:\ProjetosGithub\CursoCSharp\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\EstruturasCondicionais.exe.config
+G:\ProjetosGithub\CursoCSharp\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\EstruturasCondicionais.exe
+G:\ProjetosGithub\CursoCSharp\EstruturasCondicionais\EstruturasCondicionais\bin\Debug\EstruturasCondicionais.pdb
+G:\ProjetosGithub\CursoCSharp\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\EstruturasCondicionais.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\EstruturasCondicionais.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\EstruturasCondicionais.exe
+G:\ProjetosGithub\CursoCSharp\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\EstruturasCondicionais.pdb
+G:\ProjetosGithub\CursoCSharp\EstruturasCondicionais\EstruturasCondicionais\obj\Debug\EstruturasCondicionais.exe.config

@@ -1,0 +1,15 @@
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppTopLevel\bin\Debug\net8.0\ConsoleAppTopLevel.exe
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppTopLevel\bin\Debug\net8.0\ConsoleAppTopLevel.deps.json
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppTopLevel\bin\Debug\net8.0\ConsoleAppTopLevel.runtimeconfig.json
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppTopLevel\bin\Debug\net8.0\ConsoleAppTopLevel.dll
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppTopLevel\bin\Debug\net8.0\ConsoleAppTopLevel.pdb
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.AssemblyInfoInputs.cache
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.AssemblyInfo.cs
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.sourcelink.json
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.dll
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppTopLevel\obj\Debug\net8.0\refint\ConsoleAppTopLevel.dll
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.pdb
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.genruntimeconfig.cache
+G:\ProjetosGithub\CursoCSharp\OlaMundo\ConsoleAppTopLevel\obj\Debug\net8.0\ref\ConsoleAppTopLevel.dll

@@ -1,0 +1,11 @@
+G:\ProjetosGithub\CursoCSharp\OlaMundo\FormsAppNetFramework\bin\Debug\FormsAppNetFramework.exe.config
+G:\ProjetosGithub\CursoCSharp\OlaMundo\FormsAppNetFramework\bin\Debug\FormsAppNetFramework.exe
+G:\ProjetosGithub\CursoCSharp\OlaMundo\FormsAppNetFramework\bin\Debug\FormsAppNetFramework.pdb
+G:\ProjetosGithub\CursoCSharp\OlaMundo\FormsAppNetFramework\obj\Debug\FormsAppNetFramework.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\OlaMundo\FormsAppNetFramework\obj\Debug\FormsAppNetFramework.Properties.Resources.resources
+G:\ProjetosGithub\CursoCSharp\OlaMundo\FormsAppNetFramework\obj\Debug\FormsAppNetFramework.csproj.GenerateResource.cache
+G:\ProjetosGithub\CursoCSharp\OlaMundo\FormsAppNetFramework\obj\Debug\FormsAppNetFramework.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\OlaMundo\FormsAppNetFramework\obj\Debug\FormsAppNetFramework.exe
+G:\ProjetosGithub\CursoCSharp\OlaMundo\FormsAppNetFramework\obj\Debug\FormsAppNetFramework.pdb
+G:\ProjetosGithub\CursoCSharp\OlaMundo\FormsAppNetFramework\obj\Debug\FormsAppNetFramework.exe.config
+G:\ProjetosGithub\CursoCSharp\OlaMundo\FormsAppNetFramework\obj\Debug\FormsAppNetFramework.Form1.resources

@@ -1,0 +1,8 @@
+G:\ProjetosGithub\CursoCSharp\EntradaSaida\EntradaSaida\bin\Debug\EntradaSaida.exe.config
+G:\ProjetosGithub\CursoCSharp\EntradaSaida\EntradaSaida\bin\Debug\EntradaSaida.exe
+G:\ProjetosGithub\CursoCSharp\EntradaSaida\EntradaSaida\bin\Debug\EntradaSaida.pdb
+G:\ProjetosGithub\CursoCSharp\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.exe
+G:\ProjetosGithub\CursoCSharp\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.pdb
+G:\ProjetosGithub\CursoCSharp\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.exe.config

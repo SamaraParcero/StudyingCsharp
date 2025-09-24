@@ -1,0 +1,7 @@
+G:\ProjetosGithub\CursoCSharp\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+G:\ProjetosGithub\CursoCSharp\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+G:\ProjetosGithub\CursoCSharp\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+G:\ProjetosGithub\CursoCSharp\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+G:\ProjetosGithub\CursoCSharp\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb

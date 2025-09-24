@@ -1,0 +1,17 @@
+G:\ProjetosGithub\CursoCSharp\OlaMundo\OlaMundo\bin\Debug\net8.0-windows\OlaMundo.exe
+G:\ProjetosGithub\CursoCSharp\OlaMundo\OlaMundo\bin\Debug\net8.0-windows\OlaMundo.deps.json
+G:\ProjetosGithub\CursoCSharp\OlaMundo\OlaMundo\bin\Debug\net8.0-windows\OlaMundo.runtimeconfig.json
+G:\ProjetosGithub\CursoCSharp\OlaMundo\OlaMundo\bin\Debug\net8.0-windows\OlaMundo.dll
+G:\ProjetosGithub\CursoCSharp\OlaMundo\OlaMundo\bin\Debug\net8.0-windows\OlaMundo.pdb
+G:\ProjetosGithub\CursoCSharp\OlaMundo\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.Form1.resources
+G:\ProjetosGithub\CursoCSharp\OlaMundo\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.csproj.GenerateResource.cache
+G:\ProjetosGithub\CursoCSharp\OlaMundo\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProjetosGithub\CursoCSharp\OlaMundo\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.AssemblyInfoInputs.cache
+G:\ProjetosGithub\CursoCSharp\OlaMundo\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.AssemblyInfo.cs
+G:\ProjetosGithub\CursoCSharp\OlaMundo\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\OlaMundo\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.sourcelink.json
+G:\ProjetosGithub\CursoCSharp\OlaMundo\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.dll
+G:\ProjetosGithub\CursoCSharp\OlaMundo\OlaMundo\obj\Debug\net8.0-windows\refint\OlaMundo.dll
+G:\ProjetosGithub\CursoCSharp\OlaMundo\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.pdb
+G:\ProjetosGithub\CursoCSharp\OlaMundo\OlaMundo\obj\Debug\net8.0-windows\OlaMundo.genruntimeconfig.cache
+G:\ProjetosGithub\CursoCSharp\OlaMundo\OlaMundo\obj\Debug\net8.0-windows\ref\OlaMundo.dll

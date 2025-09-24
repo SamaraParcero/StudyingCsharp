@@ -1,0 +1,8 @@
+G:\ProjetosGithub\CursoCSharp\Variaveis\Variaveis\bin\Debug\Variaveis.exe.config
+G:\ProjetosGithub\CursoCSharp\Variaveis\Variaveis\bin\Debug\Variaveis.exe
+G:\ProjetosGithub\CursoCSharp\Variaveis\Variaveis\bin\Debug\Variaveis.pdb
+G:\ProjetosGithub\CursoCSharp\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\Variaveis\Variaveis\obj\Debug\Variaveis.exe
+G:\ProjetosGithub\CursoCSharp\Variaveis\Variaveis\obj\Debug\Variaveis.pdb
+G:\ProjetosGithub\CursoCSharp\Variaveis\Variaveis\obj\Debug\Variaveis.exe.config

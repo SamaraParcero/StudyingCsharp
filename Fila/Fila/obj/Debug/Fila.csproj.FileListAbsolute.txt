@@ -1,0 +1,8 @@
+G:\ProjetosGithub\CursoCSharp\Fila\Fila\bin\Debug\Fila.exe.config
+G:\ProjetosGithub\CursoCSharp\Fila\Fila\bin\Debug\Fila.exe
+G:\ProjetosGithub\CursoCSharp\Fila\Fila\bin\Debug\Fila.pdb
+G:\ProjetosGithub\CursoCSharp\Fila\Fila\obj\Debug\Fila.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\Fila\Fila\obj\Debug\Fila.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\Fila\Fila\obj\Debug\Fila.exe
+G:\ProjetosGithub\CursoCSharp\Fila\Fila\obj\Debug\Fila.pdb
+G:\ProjetosGithub\CursoCSharp\Fila\Fila\obj\Debug\Fila.exe.config

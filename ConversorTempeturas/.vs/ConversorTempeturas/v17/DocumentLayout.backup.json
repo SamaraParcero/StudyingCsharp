@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ProjetosGithub\\CursoCSharp\\ConversorTempeturas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D71308-1359-494D-AEE8-07EE431E0B09}|ConversorTempeturas\\ConversorTempeturas.csproj|g:\\projetosgithub\\cursocsharp\\conversortempeturas\\conversortempeturas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D71308-1359-494D-AEE8-07EE431E0B09}|ConversorTempeturas\\ConversorTempeturas.csproj|solutionrelative:conversortempeturas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\ConversorTempeturas\\ConversorTempeturas\\Program.cs",
+              "RelativeDocumentMoniker": "ConversorTempeturas\\Program.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\ConversorTempeturas\\ConversorTempeturas\\Program.cs*",
+              "RelativeToolTip": "ConversorTempeturas\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T19:26:59.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

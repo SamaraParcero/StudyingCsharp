@@ -1,0 +1,8 @@
+G:\ProjetosGithub\CursoCSharp\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+G:\ProjetosGithub\CursoCSharp\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+G:\ProjetosGithub\CursoCSharp\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+G:\ProjetosGithub\CursoCSharp\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+G:\ProjetosGithub\CursoCSharp\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+G:\ProjetosGithub\CursoCSharp\Calculadora\Calculadora\obj\Debug\Calculadora.exe.config

@@ -1,0 +1,8 @@
+G:\ProjetosGithub\CursoCSharp\Arrays\Arrays\bin\Debug\Arrays.exe.config
+G:\ProjetosGithub\CursoCSharp\Arrays\Arrays\bin\Debug\Arrays.exe
+G:\ProjetosGithub\CursoCSharp\Arrays\Arrays\bin\Debug\Arrays.pdb
+G:\ProjetosGithub\CursoCSharp\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\Arrays\Arrays\obj\Debug\Arrays.exe
+G:\ProjetosGithub\CursoCSharp\Arrays\Arrays\obj\Debug\Arrays.pdb
+G:\ProjetosGithub\CursoCSharp\Arrays\Arrays\obj\Debug\Arrays.exe.config

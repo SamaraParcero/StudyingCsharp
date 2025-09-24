@@ -1,0 +1,8 @@
+G:\ProjetosGithub\CursoCSharp\Operadores\Operadores\bin\Debug\Operadores.exe.config
+G:\ProjetosGithub\CursoCSharp\Operadores\Operadores\bin\Debug\Operadores.exe
+G:\ProjetosGithub\CursoCSharp\Operadores\Operadores\bin\Debug\Operadores.pdb
+G:\ProjetosGithub\CursoCSharp\Operadores\Operadores\obj\Debug\Operadores.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\Operadores\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\Operadores\Operadores\obj\Debug\Operadores.exe
+G:\ProjetosGithub\CursoCSharp\Operadores\Operadores\obj\Debug\Operadores.pdb
+G:\ProjetosGithub\CursoCSharp\Operadores\Operadores\obj\Debug\Operadores.exe.config

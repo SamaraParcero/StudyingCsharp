@@ -1,0 +1,7 @@
+G:\ProjetosGithub\CursoCSharp\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe.config
+G:\ProjetosGithub\CursoCSharp\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe
+G:\ProjetosGithub\CursoCSharp\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.pdb
+G:\ProjetosGithub\CursoCSharp\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.exe
+G:\ProjetosGithub\CursoCSharp\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.pdb

@@ -1,0 +1,8 @@
+G:\ProjetosGithub\CursoCSharp\ConversaoDados\ConversaoDados\bin\Debug\ConversaoDados.exe.config
+G:\ProjetosGithub\CursoCSharp\ConversaoDados\ConversaoDados\bin\Debug\ConversaoDados.exe
+G:\ProjetosGithub\CursoCSharp\ConversaoDados\ConversaoDados\bin\Debug\ConversaoDados.pdb
+G:\ProjetosGithub\CursoCSharp\ConversaoDados\ConversaoDados\obj\Debug\ConversaoDados.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\ConversaoDados\ConversaoDados\obj\Debug\ConversaoDados.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\ConversaoDados\ConversaoDados\obj\Debug\ConversaoDados.exe
+G:\ProjetosGithub\CursoCSharp\ConversaoDados\ConversaoDados\obj\Debug\ConversaoDados.pdb
+G:\ProjetosGithub\CursoCSharp\ConversaoDados\ConversaoDados\obj\Debug\ConversaoDados.exe.config

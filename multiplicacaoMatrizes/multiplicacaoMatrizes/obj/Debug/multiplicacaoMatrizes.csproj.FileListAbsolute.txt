@@ -1,0 +1,7 @@
+G:\ProjetosGithub\CursoCSharp\multiplicacaoMatrizes\multiplicacaoMatrizes\bin\Debug\multiplicacaoMatrizes.exe.config
+G:\ProjetosGithub\CursoCSharp\multiplicacaoMatrizes\multiplicacaoMatrizes\bin\Debug\multiplicacaoMatrizes.exe
+G:\ProjetosGithub\CursoCSharp\multiplicacaoMatrizes\multiplicacaoMatrizes\bin\Debug\multiplicacaoMatrizes.pdb
+G:\ProjetosGithub\CursoCSharp\multiplicacaoMatrizes\multiplicacaoMatrizes\obj\Debug\multiplicacaoMatrizes.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\multiplicacaoMatrizes\multiplicacaoMatrizes\obj\Debug\multiplicacaoMatrizes.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\multiplicacaoMatrizes\multiplicacaoMatrizes\obj\Debug\multiplicacaoMatrizes.exe
+G:\ProjetosGithub\CursoCSharp\multiplicacaoMatrizes\multiplicacaoMatrizes\obj\Debug\multiplicacaoMatrizes.pdb
