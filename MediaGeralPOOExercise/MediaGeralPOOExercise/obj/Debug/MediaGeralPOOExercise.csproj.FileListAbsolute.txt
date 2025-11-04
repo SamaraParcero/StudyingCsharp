@@ -1,0 +1,8 @@
+C:\Users\Samara\source\repos\MediaGeralPOOExercise\MediaGeralPOOExercise\bin\Debug\MediaGeralPOOExercise.exe.config
+C:\Users\Samara\source\repos\MediaGeralPOOExercise\MediaGeralPOOExercise\bin\Debug\MediaGeralPOOExercise.exe
+C:\Users\Samara\source\repos\MediaGeralPOOExercise\MediaGeralPOOExercise\bin\Debug\MediaGeralPOOExercise.pdb
+C:\Users\Samara\source\repos\MediaGeralPOOExercise\MediaGeralPOOExercise\obj\Debug\MediaGeralPOOExercise.csproj.AssemblyReference.cache
+C:\Users\Samara\source\repos\MediaGeralPOOExercise\MediaGeralPOOExercise\obj\Debug\MediaGeralPOOExercise.csproj.CoreCompileInputs.cache
+C:\Users\Samara\source\repos\MediaGeralPOOExercise\MediaGeralPOOExercise\obj\Debug\MediaGeralPOOExercise.exe
+C:\Users\Samara\source\repos\MediaGeralPOOExercise\MediaGeralPOOExercise\obj\Debug\MediaGeralPOOExercise.pdb
+C:\Users\Samara\source\repos\MediaGeralPOOExercise\MediaGeralPOOExercise\obj\Debug\MediaGeralPOOExercise.exe.config
