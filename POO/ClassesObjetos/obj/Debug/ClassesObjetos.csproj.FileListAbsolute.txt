@@ -1,0 +1,8 @@
+G:\ProjetosGithub\CursoCSharp\POO\ClassesObjetos\bin\Debug\ClassesObjetos.exe.config
+G:\ProjetosGithub\CursoCSharp\POO\ClassesObjetos\bin\Debug\ClassesObjetos.exe
+G:\ProjetosGithub\CursoCSharp\POO\ClassesObjetos\bin\Debug\ClassesObjetos.pdb
+G:\ProjetosGithub\CursoCSharp\POO\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\POO\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\POO\ClassesObjetos\obj\Debug\ClassesObjetos.exe
+G:\ProjetosGithub\CursoCSharp\POO\ClassesObjetos\obj\Debug\ClassesObjetos.pdb
+G:\ProjetosGithub\CursoCSharp\POO\ClassesObjetos\obj\Debug\ClassesObjetos.exe.config

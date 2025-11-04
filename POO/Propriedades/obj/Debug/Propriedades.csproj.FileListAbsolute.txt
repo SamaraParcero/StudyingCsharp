@@ -1,0 +1,7 @@
+G:\ProjetosGithub\CursoCSharp\POO\Propriedades\bin\Debug\Propriedades.exe.config
+G:\ProjetosGithub\CursoCSharp\POO\Propriedades\bin\Debug\Propriedades.exe
+G:\ProjetosGithub\CursoCSharp\POO\Propriedades\bin\Debug\Propriedades.pdb
+G:\ProjetosGithub\CursoCSharp\POO\Propriedades\obj\Debug\Propriedades.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\POO\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\POO\Propriedades\obj\Debug\Propriedades.exe
+G:\ProjetosGithub\CursoCSharp\POO\Propriedades\obj\Debug\Propriedades.pdb

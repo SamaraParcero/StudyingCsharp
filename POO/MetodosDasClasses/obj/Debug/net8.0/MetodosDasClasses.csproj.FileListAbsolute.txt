@@ -1,0 +1,15 @@
+G:\ProjetosGithub\CursoCSharp\POO\MetodosDasClasses\bin\Debug\net8.0\MetodosDasClasses.exe
+G:\ProjetosGithub\CursoCSharp\POO\MetodosDasClasses\bin\Debug\net8.0\MetodosDasClasses.deps.json
+G:\ProjetosGithub\CursoCSharp\POO\MetodosDasClasses\bin\Debug\net8.0\MetodosDasClasses.runtimeconfig.json
+G:\ProjetosGithub\CursoCSharp\POO\MetodosDasClasses\bin\Debug\net8.0\MetodosDasClasses.dll
+G:\ProjetosGithub\CursoCSharp\POO\MetodosDasClasses\bin\Debug\net8.0\MetodosDasClasses.pdb
+G:\ProjetosGithub\CursoCSharp\POO\MetodosDasClasses\obj\Debug\net8.0\MetodosDasClasses.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProjetosGithub\CursoCSharp\POO\MetodosDasClasses\obj\Debug\net8.0\MetodosDasClasses.AssemblyInfoInputs.cache
+G:\ProjetosGithub\CursoCSharp\POO\MetodosDasClasses\obj\Debug\net8.0\MetodosDasClasses.AssemblyInfo.cs
+G:\ProjetosGithub\CursoCSharp\POO\MetodosDasClasses\obj\Debug\net8.0\MetodosDasClasses.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\POO\MetodosDasClasses\obj\Debug\net8.0\MetodosDasClasses.sourcelink.json
+G:\ProjetosGithub\CursoCSharp\POO\MetodosDasClasses\obj\Debug\net8.0\MetodosDasClasses.dll
+G:\ProjetosGithub\CursoCSharp\POO\MetodosDasClasses\obj\Debug\net8.0\refint\MetodosDasClasses.dll
+G:\ProjetosGithub\CursoCSharp\POO\MetodosDasClasses\obj\Debug\net8.0\MetodosDasClasses.pdb
+G:\ProjetosGithub\CursoCSharp\POO\MetodosDasClasses\obj\Debug\net8.0\MetodosDasClasses.genruntimeconfig.cache
+G:\ProjetosGithub\CursoCSharp\POO\MetodosDasClasses\obj\Debug\net8.0\ref\MetodosDasClasses.dll

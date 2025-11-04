@@ -1,0 +1,8 @@
+G:\ProjetosGithub\CursoCSharp\POO\MetodoConstrutor\bin\Debug\MetodoConstrutor.exe.config
+G:\ProjetosGithub\CursoCSharp\POO\MetodoConstrutor\bin\Debug\MetodoConstrutor.exe
+G:\ProjetosGithub\CursoCSharp\POO\MetodoConstrutor\bin\Debug\MetodoConstrutor.pdb
+G:\ProjetosGithub\CursoCSharp\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.exe
+G:\ProjetosGithub\CursoCSharp\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.pdb
+G:\ProjetosGithub\CursoCSharp\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.exe.config

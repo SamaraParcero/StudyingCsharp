@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ProjetosGithub\\CursoCSharp\\POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC20F6-E538-4772-A8D5-976BE1B05559}|Propriedades\\Propriedades.csproj|g:\\projetosgithub\\cursocsharp\\poo\\propriedades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEC20F6-E538-4772-A8D5-976BE1B05559}|Propriedades\\Propriedades.csproj|solutionrelative:propriedades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC20F6-E538-4772-A8D5-976BE1B05559}|Propriedades\\Propriedades.csproj|g:\\projetosgithub\\cursocsharp\\poo\\propriedades\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEC20F6-E538-4772-A8D5-976BE1B05559}|Propriedades\\Propriedades.csproj|solutionrelative:propriedades\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C472C8-CD39-4C94-ACD6-43CD2589248C}|Estaticas\\Estaticas.csproj|g:\\projetosgithub\\cursocsharp\\poo\\estaticas\\pessoaatributos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C472C8-CD39-4C94-ACD6-43CD2589248C}|Estaticas\\Estaticas.csproj|solutionrelative:estaticas\\pessoaatributos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C472C8-CD39-4C94-ACD6-43CD2589248C}|Estaticas\\Estaticas.csproj|g:\\projetosgithub\\cursocsharp\\poo\\estaticas\\pessoametodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C472C8-CD39-4C94-ACD6-43CD2589248C}|Estaticas\\Estaticas.csproj|solutionrelative:estaticas\\pessoametodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C472C8-CD39-4C94-ACD6-43CD2589248C}|Estaticas\\Estaticas.csproj|g:\\projetosgithub\\cursocsharp\\poo\\estaticas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C472C8-CD39-4C94-ACD6-43CD2589248C}|Estaticas\\Estaticas.csproj|solutionrelative:estaticas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C472C8-CD39-4C94-ACD6-43CD2589248C}|Estaticas\\Estaticas.csproj|G:\\ProjetosGithub\\CursoCSharp\\POO\\estaticas\\matematica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C472C8-CD39-4C94-ACD6-43CD2589248C}|Estaticas\\Estaticas.csproj|solutionrelative:estaticas\\matematica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB19BD0-A36F-426D-8B6C-401174976B9D}|MetodoConstrutor\\MetodoConstrutor.csproj|G:\\ProjetosGithub\\CursoCSharp\\POO\\metodoconstrutor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB19BD0-A36F-426D-8B6C-401174976B9D}|MetodoConstrutor\\MetodoConstrutor.csproj|solutionrelative:metodoconstrutor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB19BD0-A36F-426D-8B6C-401174976B9D}|MetodoConstrutor\\MetodoConstrutor.csproj|G:\\ProjetosGithub\\CursoCSharp\\POO\\metodoconstrutor\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB19BD0-A36F-426D-8B6C-401174976B9D}|MetodoConstrutor\\MetodoConstrutor.csproj|solutionrelative:metodoconstrutor\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCE1C62-2E2B-4A68-A5A3-B709D983CA49}|TipoDelegate\\TipoDelegate.csproj|G:\\ProjetosGithub\\CursoCSharp\\POO\\tipodelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCE1C62-2E2B-4A68-A5A3-B709D983CA49}|TipoDelegate\\TipoDelegate.csproj|solutionrelative:tipodelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCE1C62-2E2B-4A68-A5A3-B709D983CA49}|TipoDelegate\\TipoDelegate.csproj|G:\\ProjetosGithub\\CursoCSharp\\POO\\tipodelegate\\matematica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCE1C62-2E2B-4A68-A5A3-B709D983CA49}|TipoDelegate\\TipoDelegate.csproj|solutionrelative:tipodelegate\\matematica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teste.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\POO\\Propriedades\\Teste.cs",
+              "RelativeDocumentMoniker": "Propriedades\\Teste.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\POO\\Propriedades\\Teste.cs",
+              "RelativeToolTip": "Propriedades\\Teste.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T21:40:00.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\POO\\Propriedades\\Program.cs",
+              "RelativeDocumentMoniker": "Propriedades\\Program.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\POO\\Propriedades\\Program.cs",
+              "RelativeToolTip": "Propriedades\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T21:39:46.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PessoaMetodos.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\POO\\Estaticas\\PessoaMetodos.cs",
+              "RelativeDocumentMoniker": "Estaticas\\PessoaMetodos.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\POO\\Estaticas\\PessoaMetodos.cs",
+              "RelativeToolTip": "Estaticas\\PessoaMetodos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T21:32:56.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PessoaAtributos.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\POO\\Estaticas\\PessoaAtributos.cs",
+              "RelativeDocumentMoniker": "Estaticas\\PessoaAtributos.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\POO\\Estaticas\\PessoaAtributos.cs",
+              "RelativeToolTip": "Estaticas\\PessoaAtributos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:55:07.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Matematica.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\POO\\Estaticas\\Matematica.cs",
+              "RelativeDocumentMoniker": "Estaticas\\Matematica.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\POO\\Estaticas\\Matematica.cs",
+              "RelativeToolTip": "Estaticas\\Matematica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:47:50.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\POO\\Estaticas\\Program.cs",
+              "RelativeDocumentMoniker": "Estaticas\\Program.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\POO\\Estaticas\\Program.cs",
+              "RelativeToolTip": "Estaticas\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:47:31.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\POO\\MetodoConstrutor\\Pessoa.cs",
+              "RelativeDocumentMoniker": "MetodoConstrutor\\Pessoa.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\POO\\MetodoConstrutor\\Pessoa.cs",
+              "RelativeToolTip": "MetodoConstrutor\\Pessoa.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:11:04.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\POO\\MetodoConstrutor\\Program.cs",
+              "RelativeDocumentMoniker": "MetodoConstrutor\\Program.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\POO\\MetodoConstrutor\\Program.cs",
+              "RelativeToolTip": "MetodoConstrutor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T21:10:36.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Matematica.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\POO\\TipoDelegate\\Matematica.cs",
+              "RelativeDocumentMoniker": "TipoDelegate\\Matematica.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\POO\\TipoDelegate\\Matematica.cs",
+              "RelativeToolTip": "TipoDelegate\\Matematica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T20:58:49.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\POO\\TipoDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "TipoDelegate\\Program.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\POO\\TipoDelegate\\Program.cs",
+              "RelativeToolTip": "TipoDelegate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T20:57:07.354Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

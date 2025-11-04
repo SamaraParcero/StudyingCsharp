@@ -1,0 +1,8 @@
+G:\ProjetosGithub\CursoCSharp\POO\Estaticas\bin\Debug\Estaticas.exe.config
+G:\ProjetosGithub\CursoCSharp\POO\Estaticas\bin\Debug\Estaticas.exe
+G:\ProjetosGithub\CursoCSharp\POO\Estaticas\bin\Debug\Estaticas.pdb
+G:\ProjetosGithub\CursoCSharp\POO\Estaticas\obj\Debug\Estaticas.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\POO\Estaticas\obj\Debug\Estaticas.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\POO\Estaticas\obj\Debug\Estaticas.exe
+G:\ProjetosGithub\CursoCSharp\POO\Estaticas\obj\Debug\Estaticas.pdb
+G:\ProjetosGithub\CursoCSharp\POO\Estaticas\obj\Debug\Estaticas.exe.config

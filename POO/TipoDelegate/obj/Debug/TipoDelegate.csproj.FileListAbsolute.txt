@@ -1,0 +1,8 @@
+G:\ProjetosGithub\CursoCSharp\POO\TipoDelegate\bin\Debug\TipoDelegate.exe.config
+G:\ProjetosGithub\CursoCSharp\POO\TipoDelegate\bin\Debug\TipoDelegate.exe
+G:\ProjetosGithub\CursoCSharp\POO\TipoDelegate\bin\Debug\TipoDelegate.pdb
+G:\ProjetosGithub\CursoCSharp\POO\TipoDelegate\obj\Debug\TipoDelegate.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\POO\TipoDelegate\obj\Debug\TipoDelegate.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\POO\TipoDelegate\obj\Debug\TipoDelegate.exe
+G:\ProjetosGithub\CursoCSharp\POO\TipoDelegate\obj\Debug\TipoDelegate.pdb
+G:\ProjetosGithub\CursoCSharp\POO\TipoDelegate\obj\Debug\TipoDelegate.exe.config
