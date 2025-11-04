@@ -1,0 +1,7 @@
+G:\ProjetosGithub\CursoCSharp\POO\Polimorfismos\bin\Debug\Polimorfismos.exe.config
+G:\ProjetosGithub\CursoCSharp\POO\Polimorfismos\bin\Debug\Polimorfismos.exe
+G:\ProjetosGithub\CursoCSharp\POO\Polimorfismos\bin\Debug\Polimorfismos.pdb
+G:\ProjetosGithub\CursoCSharp\POO\Polimorfismos\obj\Debug\Polimorfismos.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\POO\Polimorfismos\obj\Debug\Polimorfismos.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\POO\Polimorfismos\obj\Debug\Polimorfismos.exe
+G:\ProjetosGithub\CursoCSharp\POO\Polimorfismos\obj\Debug\Polimorfismos.pdb

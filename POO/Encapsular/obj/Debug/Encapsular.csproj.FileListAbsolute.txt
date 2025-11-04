@@ -1,0 +1,8 @@
+G:\ProjetosGithub\CursoCSharp\POO\Encapsular\bin\Debug\Encapsular.exe.config
+G:\ProjetosGithub\CursoCSharp\POO\Encapsular\bin\Debug\Encapsular.exe
+G:\ProjetosGithub\CursoCSharp\POO\Encapsular\bin\Debug\Encapsular.pdb
+G:\ProjetosGithub\CursoCSharp\POO\Encapsular\obj\Debug\Encapsular.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\POO\Encapsular\obj\Debug\Encapsular.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\POO\Encapsular\obj\Debug\Encapsular.exe
+G:\ProjetosGithub\CursoCSharp\POO\Encapsular\obj\Debug\Encapsular.pdb
+G:\ProjetosGithub\CursoCSharp\POO\Encapsular\obj\Debug\Encapsular.exe.config

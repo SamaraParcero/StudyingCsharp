@@ -1,0 +1,8 @@
+G:\ProjetosGithub\CursoCSharp\POO\Heranca\bin\Debug\Heranca.exe.config
+G:\ProjetosGithub\CursoCSharp\POO\Heranca\bin\Debug\Heranca.exe
+G:\ProjetosGithub\CursoCSharp\POO\Heranca\bin\Debug\Heranca.pdb
+G:\ProjetosGithub\CursoCSharp\POO\Heranca\obj\Debug\Heranca.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\POO\Heranca\obj\Debug\Heranca.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\POO\Heranca\obj\Debug\Heranca.exe
+G:\ProjetosGithub\CursoCSharp\POO\Heranca\obj\Debug\Heranca.pdb
+G:\ProjetosGithub\CursoCSharp\POO\Heranca\obj\Debug\Heranca.exe.config

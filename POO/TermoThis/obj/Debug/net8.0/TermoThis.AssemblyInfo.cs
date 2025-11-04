@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TermoThis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4550710b25283fb9dc8996dfa78ef082b8e7bf0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0ec2aea64ead4b0ce73f934c2bf721b11f261bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("TermoThis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TermoThis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
