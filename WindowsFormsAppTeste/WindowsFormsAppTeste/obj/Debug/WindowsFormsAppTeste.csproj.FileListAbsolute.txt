@@ -1,0 +1,11 @@
+G:\ProjetosGithub\CursoCSharp\WindowsFormsAppTeste\WindowsFormsAppTeste\bin\Debug\WindowsFormsAppTeste.exe.config
+G:\ProjetosGithub\CursoCSharp\WindowsFormsAppTeste\WindowsFormsAppTeste\bin\Debug\WindowsFormsAppTeste.exe
+G:\ProjetosGithub\CursoCSharp\WindowsFormsAppTeste\WindowsFormsAppTeste\bin\Debug\WindowsFormsAppTeste.pdb
+G:\ProjetosGithub\CursoCSharp\WindowsFormsAppTeste\WindowsFormsAppTeste\obj\Debug\WindowsFormsAppTeste.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\WindowsFormsAppTeste\WindowsFormsAppTeste\obj\Debug\WindowsFormsAppTeste.Form1.resources
+G:\ProjetosGithub\CursoCSharp\WindowsFormsAppTeste\WindowsFormsAppTeste\obj\Debug\WindowsFormsAppTeste.Properties.Resources.resources
+G:\ProjetosGithub\CursoCSharp\WindowsFormsAppTeste\WindowsFormsAppTeste\obj\Debug\WindowsFormsAppTeste.csproj.GenerateResource.cache
+G:\ProjetosGithub\CursoCSharp\WindowsFormsAppTeste\WindowsFormsAppTeste\obj\Debug\WindowsFormsAppTeste.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\WindowsFormsAppTeste\WindowsFormsAppTeste\obj\Debug\WindowsFormsAppTeste.exe
+G:\ProjetosGithub\CursoCSharp\WindowsFormsAppTeste\WindowsFormsAppTeste\obj\Debug\WindowsFormsAppTeste.pdb
+G:\ProjetosGithub\CursoCSharp\WindowsFormsAppTeste\WindowsFormsAppTeste\obj\Debug\WindowsFormsAppTeste.exe.config

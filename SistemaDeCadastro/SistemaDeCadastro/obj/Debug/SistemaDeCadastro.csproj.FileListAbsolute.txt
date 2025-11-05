@@ -1,0 +1,11 @@
+G:\ProjetosGithub\CursoCSharp\SistemaDeCadastro\SistemaDeCadastro\bin\Debug\SistemaDeCadastro.exe.config
+G:\ProjetosGithub\CursoCSharp\SistemaDeCadastro\SistemaDeCadastro\bin\Debug\SistemaDeCadastro.exe
+G:\ProjetosGithub\CursoCSharp\SistemaDeCadastro\SistemaDeCadastro\bin\Debug\SistemaDeCadastro.pdb
+G:\ProjetosGithub\CursoCSharp\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.Form1.resources
+G:\ProjetosGithub\CursoCSharp\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.Properties.Resources.resources
+G:\ProjetosGithub\CursoCSharp\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.csproj.GenerateResource.cache
+G:\ProjetosGithub\CursoCSharp\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.exe
+G:\ProjetosGithub\CursoCSharp\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.pdb
+G:\ProjetosGithub\CursoCSharp\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.exe.config
