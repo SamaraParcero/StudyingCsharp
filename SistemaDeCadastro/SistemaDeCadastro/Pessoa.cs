@@ -8,10 +8,10 @@ namespace SistemaDeCadastro
 {
     internal class Pessoa
     {
-        public string nome { get; set; }
+        public string Nome { get; set; }
         public string DataNascimento { get; set; }
         public string EstadoCivil {  get; set; }
-        public string telefone { get; set; }
+        public string Telefone { get; set; }
         public bool CasaPropria {  get; set; }
         public bool Veiculo { get; set; }
         public char Sexo { get; set; }

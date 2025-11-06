@@ -39,8 +39,8 @@
             this.checkCasa = new System.Windows.Forms.CheckBox();
             this.checkVeiculo = new System.Windows.Forms.CheckBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.radioM = new System.Windows.Forms.RadioButton();
             this.radioF = new System.Windows.Forms.RadioButton();
+            this.radioM = new System.Windows.Forms.RadioButton();
             this.lista = new System.Windows.Forms.ListBox();
             this.btnCadastrar = new System.Windows.Forms.Button();
             this.btnExcluir = new System.Windows.Forms.Button();
@@ -148,9 +148,20 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Sexo";
             // 
+            // radioF
+            // 
+            this.radioF.AutoSize = true;
+            this.radioF.Location = new System.Drawing.Point(7, 43);
+            this.radioF.Name = "radioF";
+            this.radioF.Size = new System.Drawing.Size(67, 17);
+            this.radioF.TabIndex = 1;
+            this.radioF.Text = "Feminino";
+            this.radioF.UseVisualStyleBackColor = true;
+            // 
             // radioM
             // 
             this.radioM.AutoSize = true;
+            this.radioM.Checked = true;
             this.radioM.Location = new System.Drawing.Point(7, 20);
             this.radioM.Name = "radioM";
             this.radioM.Size = new System.Drawing.Size(73, 17);
@@ -159,17 +170,6 @@
             this.radioM.Text = "Masculino";
             this.radioM.UseVisualStyleBackColor = true;
             // 
-            // radioF
-            // 
-            this.radioF.AutoSize = true;
-            this.radioF.Location = new System.Drawing.Point(7, 43);
-            this.radioF.Name = "radioF";
-            this.radioF.Size = new System.Drawing.Size(67, 17);
-            this.radioF.TabIndex = 1;
-            this.radioF.TabStop = true;
-            this.radioF.Text = "Feminino";
-            this.radioF.UseVisualStyleBackColor = true;
-            // 
             // lista
             // 
             this.lista.FormattingEnabled = true;
@@ -177,6 +177,7 @@
             this.lista.Name = "lista";
             this.lista.Size = new System.Drawing.Size(589, 121);
             this.lista.TabIndex = 14;
+            this.lista.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.lista_MouseDoubleClick);
             // 
             // btnCadastrar
             // 
