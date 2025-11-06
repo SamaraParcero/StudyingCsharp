@@ -1,0 +1,11 @@
+G:\ProjetosGithub\CursoCSharp\ManipularString\ManipularString\bin\Debug\ManipularString.exe.config
+G:\ProjetosGithub\CursoCSharp\ManipularString\ManipularString\bin\Debug\ManipularString.exe
+G:\ProjetosGithub\CursoCSharp\ManipularString\ManipularString\bin\Debug\ManipularString.pdb
+G:\ProjetosGithub\CursoCSharp\ManipularString\ManipularString\obj\Debug\ManipularString.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\ManipularString\ManipularString\obj\Debug\ManipularString.Form1.resources
+G:\ProjetosGithub\CursoCSharp\ManipularString\ManipularString\obj\Debug\ManipularString.Properties.Resources.resources
+G:\ProjetosGithub\CursoCSharp\ManipularString\ManipularString\obj\Debug\ManipularString.csproj.GenerateResource.cache
+G:\ProjetosGithub\CursoCSharp\ManipularString\ManipularString\obj\Debug\ManipularString.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\ManipularString\ManipularString\obj\Debug\ManipularString.exe
+G:\ProjetosGithub\CursoCSharp\ManipularString\ManipularString\obj\Debug\ManipularString.pdb
+G:\ProjetosGithub\CursoCSharp\ManipularString\ManipularString\obj\Debug\ManipularString.exe.config
