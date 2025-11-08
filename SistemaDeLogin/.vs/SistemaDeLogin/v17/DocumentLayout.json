@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ProjetosGithub\\CursoCSharp\\SistemaDeLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3749E49A-829A-472C-BF11-AE9D165F1CE0}|SistemaDeLogin\\SistemaDeLogin.csproj|G:\\ProjetosGithub\\CursoCSharp\\SistemaDeLogin\\sistemadelogin\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3749E49A-829A-472C-BF11-AE9D165F1CE0}|SistemaDeLogin\\SistemaDeLogin.csproj|solutionrelative:sistemadelogin\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3749E49A-829A-472C-BF11-AE9D165F1CE0}|SistemaDeLogin\\SistemaDeLogin.csproj|G:\\ProjetosGithub\\CursoCSharp\\SistemaDeLogin\\sistemadelogin\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3749E49A-829A-472C-BF11-AE9D165F1CE0}|SistemaDeLogin\\SistemaDeLogin.csproj|solutionrelative:sistemadelogin\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3749E49A-829A-472C-BF11-AE9D165F1CE0}|SistemaDeLogin\\SistemaDeLogin.csproj|G:\\ProjetosGithub\\CursoCSharp\\SistemaDeLogin\\sistemadelogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3749E49A-829A-472C-BF11-AE9D165F1CE0}|SistemaDeLogin\\SistemaDeLogin.csproj|solutionrelative:sistemadelogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3749E49A-829A-472C-BF11-AE9D165F1CE0}|SistemaDeLogin\\SistemaDeLogin.csproj|g:\\projetosgithub\\cursocsharp\\sistemadelogin\\sistemadelogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3749E49A-829A-472C-BF11-AE9D165F1CE0}|SistemaDeLogin\\SistemaDeLogin.csproj|solutionrelative:sistemadelogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3749E49A-829A-472C-BF11-AE9D165F1CE0}|SistemaDeLogin\\SistemaDeLogin.csproj|g:\\projetosgithub\\cursocsharp\\sistemadelogin\\sistemadelogin\\cadastrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3749E49A-829A-472C-BF11-AE9D165F1CE0}|SistemaDeLogin\\SistemaDeLogin.csproj|solutionrelative:sistemadelogin\\cadastrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3749E49A-829A-472C-BF11-AE9D165F1CE0}|SistemaDeLogin\\SistemaDeLogin.csproj|g:\\projetosgithub\\cursocsharp\\sistemadelogin\\sistemadelogin\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3749E49A-829A-472C-BF11-AE9D165F1CE0}|SistemaDeLogin\\SistemaDeLogin.csproj|solutionrelative:sistemadelogin\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CadastroUsuario.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\SistemaDeLogin\\SistemaDeLogin\\CadastroUsuario.cs",
+              "RelativeDocumentMoniker": "SistemaDeLogin\\CadastroUsuario.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\SistemaDeLogin\\SistemaDeLogin\\CadastroUsuario.cs",
+              "RelativeToolTip": "SistemaDeLogin\\CadastroUsuario.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:11:01.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\SistemaDeLogin\\SistemaDeLogin\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaDeLogin\\Usuario.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\SistemaDeLogin\\SistemaDeLogin\\Usuario.cs",
+              "RelativeToolTip": "SistemaDeLogin\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:09:09.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\SistemaDeLogin\\SistemaDeLogin\\FormLogin.cs",
+              "RelativeDocumentMoniker": "SistemaDeLogin\\FormLogin.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\SistemaDeLogin\\SistemaDeLogin\\FormLogin.cs",
+              "RelativeToolTip": "SistemaDeLogin\\FormLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T20:53:21.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\SistemaDeLogin\\SistemaDeLogin\\FormLogin.cs",
+              "RelativeDocumentMoniker": "SistemaDeLogin\\FormLogin.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\SistemaDeLogin\\SistemaDeLogin\\FormLogin.cs [Design]",
+              "RelativeToolTip": "SistemaDeLogin\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T20:50:37.032Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\SistemaDeLogin\\SistemaDeLogin\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaDeLogin\\Form1.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\SistemaDeLogin\\SistemaDeLogin\\Form1.cs",
+              "RelativeToolTip": "SistemaDeLogin\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T20:44:50.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\SistemaDeLogin\\SistemaDeLogin\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaDeLogin\\Form1.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\SistemaDeLogin\\SistemaDeLogin\\Form1.cs [Design]",
+              "RelativeToolTip": "SistemaDeLogin\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T20:44:14.17Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

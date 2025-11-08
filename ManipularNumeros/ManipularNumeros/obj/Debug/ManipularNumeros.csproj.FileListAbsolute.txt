@@ -1,0 +1,11 @@
+G:\ProjetosGithub\CursoCSharp\ManipularNumeros\ManipularNumeros\bin\Debug\ManipularNumeros.exe.config
+G:\ProjetosGithub\CursoCSharp\ManipularNumeros\ManipularNumeros\bin\Debug\ManipularNumeros.exe
+G:\ProjetosGithub\CursoCSharp\ManipularNumeros\ManipularNumeros\bin\Debug\ManipularNumeros.pdb
+G:\ProjetosGithub\CursoCSharp\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.Form1.resources
+G:\ProjetosGithub\CursoCSharp\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.Properties.Resources.resources
+G:\ProjetosGithub\CursoCSharp\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.csproj.GenerateResource.cache
+G:\ProjetosGithub\CursoCSharp\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.exe
+G:\ProjetosGithub\CursoCSharp\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.pdb
+G:\ProjetosGithub\CursoCSharp\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.exe.config

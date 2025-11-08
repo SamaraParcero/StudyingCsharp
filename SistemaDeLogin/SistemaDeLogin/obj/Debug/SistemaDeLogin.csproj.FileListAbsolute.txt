@@ -1,0 +1,12 @@
+G:\ProjetosGithub\CursoCSharp\SistemaDeLogin\SistemaDeLogin\bin\Debug\SistemaDeLogin.exe.config
+G:\ProjetosGithub\CursoCSharp\SistemaDeLogin\SistemaDeLogin\bin\Debug\SistemaDeLogin.exe
+G:\ProjetosGithub\CursoCSharp\SistemaDeLogin\SistemaDeLogin\bin\Debug\SistemaDeLogin.pdb
+G:\ProjetosGithub\CursoCSharp\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.Form1.resources
+G:\ProjetosGithub\CursoCSharp\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.Properties.Resources.resources
+G:\ProjetosGithub\CursoCSharp\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.csproj.GenerateResource.cache
+G:\ProjetosGithub\CursoCSharp\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.exe
+G:\ProjetosGithub\CursoCSharp\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.pdb
+G:\ProjetosGithub\CursoCSharp\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.exe.config
+G:\ProjetosGithub\CursoCSharp\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.FormLogin.resources
