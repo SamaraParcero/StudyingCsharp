@@ -1,0 +1,11 @@
+G:\ProjetosGithub\CursoCSharp\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\Jokenpo\Jokenpo\obj\Debug\Jokenpo.Form1.resources
+G:\ProjetosGithub\CursoCSharp\Jokenpo\Jokenpo\obj\Debug\Jokenpo.Properties.Resources.resources
+G:\ProjetosGithub\CursoCSharp\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.GenerateResource.cache
+G:\ProjetosGithub\CursoCSharp\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe.config
+G:\ProjetosGithub\CursoCSharp\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe
+G:\ProjetosGithub\CursoCSharp\Jokenpo\Jokenpo\bin\Debug\Jokenpo.pdb
+G:\ProjetosGithub\CursoCSharp\Jokenpo\Jokenpo\obj\Debug\Jokenpo.exe
+G:\ProjetosGithub\CursoCSharp\Jokenpo\Jokenpo\obj\Debug\Jokenpo.pdb
+G:\ProjetosGithub\CursoCSharp\Jokenpo\Jokenpo\obj\Debug\Jokenpo.exe.config

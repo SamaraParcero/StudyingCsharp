@@ -1,0 +1,11 @@
+G:\ProjetosGithub\CursoCSharp\Colecoes\Colecoes\bin\Debug\Colecoes.exe.config
+G:\ProjetosGithub\CursoCSharp\Colecoes\Colecoes\bin\Debug\Colecoes.exe
+G:\ProjetosGithub\CursoCSharp\Colecoes\Colecoes\bin\Debug\Colecoes.pdb
+G:\ProjetosGithub\CursoCSharp\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\Colecoes\Colecoes\obj\Debug\Colecoes.Form1.resources
+G:\ProjetosGithub\CursoCSharp\Colecoes\Colecoes\obj\Debug\Colecoes.Properties.Resources.resources
+G:\ProjetosGithub\CursoCSharp\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.GenerateResource.cache
+G:\ProjetosGithub\CursoCSharp\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\Colecoes\Colecoes\obj\Debug\Colecoes.exe
+G:\ProjetosGithub\CursoCSharp\Colecoes\Colecoes\obj\Debug\Colecoes.pdb
+G:\ProjetosGithub\CursoCSharp\Colecoes\Colecoes\obj\Debug\Colecoes.exe.config

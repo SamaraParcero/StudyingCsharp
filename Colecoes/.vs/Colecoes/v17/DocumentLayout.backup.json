@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ProjetosGithub\\CursoCSharp\\Colecoes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1373D67F-BF5F-41D6-8D56-8D6FCED04F89}|Colecoes\\Colecoes.csproj|g:\\projetosgithub\\cursocsharp\\colecoes\\colecoes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1373D67F-BF5F-41D6-8D56-8D6FCED04F89}|Colecoes\\Colecoes.csproj|solutionrelative:colecoes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1373D67F-BF5F-41D6-8D56-8D6FCED04F89}|Colecoes\\Colecoes.csproj|G:\\ProjetosGithub\\CursoCSharp\\Colecoes\\colecoes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1373D67F-BF5F-41D6-8D56-8D6FCED04F89}|Colecoes\\Colecoes.csproj|solutionrelative:colecoes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\Colecoes\\Colecoes\\Form1.cs",
+              "RelativeDocumentMoniker": "Colecoes\\Form1.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\Colecoes\\Colecoes\\Form1.cs*",
+              "RelativeToolTip": "Colecoes\\Form1.cs*",
+              "ViewState": "AgIAAEgBAAAAAAAAAAAkwFwBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:29:59.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\Colecoes\\Colecoes\\Form1.cs",
+              "RelativeDocumentMoniker": "Colecoes\\Form1.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\Colecoes\\Colecoes\\Form1.cs [Design]*",
+              "RelativeToolTip": "Colecoes\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:26:59.587Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
