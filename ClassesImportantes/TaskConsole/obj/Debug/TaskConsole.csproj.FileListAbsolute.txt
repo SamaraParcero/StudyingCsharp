@@ -1,0 +1,8 @@
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\TaskConsole\bin\Debug\TaskConsole.exe.config
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\TaskConsole\bin\Debug\TaskConsole.exe
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\TaskConsole\bin\Debug\TaskConsole.pdb
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\TaskConsole\obj\Debug\TaskConsole.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\TaskConsole\obj\Debug\TaskConsole.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\TaskConsole\obj\Debug\TaskConsole.exe
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\TaskConsole\obj\Debug\TaskConsole.pdb
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\TaskConsole\obj\Debug\TaskConsole.exe.config

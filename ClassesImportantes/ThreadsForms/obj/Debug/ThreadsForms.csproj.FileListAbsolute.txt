@@ -1,0 +1,11 @@
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ThreadsForms\bin\Debug\ThreadsForms.exe.config
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ThreadsForms\bin\Debug\ThreadsForms.exe
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ThreadsForms\bin\Debug\ThreadsForms.pdb
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ThreadsForms\obj\Debug\ThreadsForms.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ThreadsForms\obj\Debug\ThreadsForms.Form1.resources
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ThreadsForms\obj\Debug\ThreadsForms.Properties.Resources.resources
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ThreadsForms\obj\Debug\ThreadsForms.csproj.GenerateResource.cache
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ThreadsForms\obj\Debug\ThreadsForms.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ThreadsForms\obj\Debug\ThreadsForms.exe
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ThreadsForms\obj\Debug\ThreadsForms.pdb
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ThreadsForms\obj\Debug\ThreadsForms.exe.config

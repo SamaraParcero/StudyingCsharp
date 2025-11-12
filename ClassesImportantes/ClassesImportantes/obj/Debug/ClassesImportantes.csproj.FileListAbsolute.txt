@@ -1,0 +1,11 @@
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ClassesImportantes\bin\Debug\ClassesImportantes.exe.config
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ClassesImportantes\bin\Debug\ClassesImportantes.exe
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ClassesImportantes\bin\Debug\ClassesImportantes.pdb
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ClassesImportantes\obj\Debug\ClassesImportantes.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ClassesImportantes\obj\Debug\ClassesImportantes.Form1.resources
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ClassesImportantes\obj\Debug\ClassesImportantes.Properties.Resources.resources
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ClassesImportantes\obj\Debug\ClassesImportantes.csproj.GenerateResource.cache
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ClassesImportantes\obj\Debug\ClassesImportantes.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ClassesImportantes\obj\Debug\ClassesImportantes.exe
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ClassesImportantes\obj\Debug\ClassesImportantes.pdb
+G:\ProjetosGithub\CursoCSharp\ClassesImportantes\ClassesImportantes\obj\Debug\ClassesImportantes.exe.config

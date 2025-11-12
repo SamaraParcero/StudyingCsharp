@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ProjetosGithub\\CursoCSharp\\ClassesImportantes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC1C055-0AB3-43FD-9EBB-280BB8DE8806}|TaskConsole\\TaskConsole.csproj|g:\\projetosgithub\\cursocsharp\\classesimportantes\\taskconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC1C055-0AB3-43FD-9EBB-280BB8DE8806}|TaskConsole\\TaskConsole.csproj|solutionrelative:taskconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FBB4A0-30C5-4B74-B743-42B7A525B47E}|ThreadsForms\\ThreadsForms.csproj|g:\\projetosgithub\\cursocsharp\\classesimportantes\\threadsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FBB4A0-30C5-4B74-B743-42B7A525B47E}|ThreadsForms\\ThreadsForms.csproj|solutionrelative:threadsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FBB4A0-30C5-4B74-B743-42B7A525B47E}|ThreadsForms\\ThreadsForms.csproj|g:\\projetosgithub\\cursocsharp\\classesimportantes\\threadsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FBB4A0-30C5-4B74-B743-42B7A525B47E}|ThreadsForms\\ThreadsForms.csproj|solutionrelative:threadsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FBB4A0-30C5-4B74-B743-42B7A525B47E}|ThreadsForms\\ThreadsForms.csproj|g:\\projetosgithub\\cursocsharp\\classesimportantes\\threadsforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FBB4A0-30C5-4B74-B743-42B7A525B47E}|ThreadsForms\\ThreadsForms.csproj|solutionrelative:threadsforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FBB4A0-30C5-4B74-B743-42B7A525B47E}|ThreadsForms\\ThreadsForms.csproj|g:\\projetosgithub\\cursocsharp\\classesimportantes\\threadsforms\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{35FBB4A0-30C5-4B74-B743-42B7A525B47E}|ThreadsForms\\ThreadsForms.csproj|solutionrelative:threadsforms\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBECD22-D4A1-4AC2-957E-31A2442AF01D}|ThreadConsole\\ThreadConsole.csproj|g:\\projetosgithub\\cursocsharp\\classesimportantes\\threadconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBECD22-D4A1-4AC2-957E-31A2442AF01D}|ThreadConsole\\ThreadConsole.csproj|solutionrelative:threadconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15407353-C628-4C3D-AB65-DD1BB17E2A9D}|ClassesImportantes\\ClassesImportantes.csproj|g:\\projetosgithub\\cursocsharp\\classesimportantes\\classesimportantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15407353-C628-4C3D-AB65-DD1BB17E2A9D}|ClassesImportantes\\ClassesImportantes.csproj|solutionrelative:classesimportantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\ClassesImportantes\\TaskConsole\\Program.cs",
+              "RelativeDocumentMoniker": "TaskConsole\\Program.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\ClassesImportantes\\TaskConsole\\Program.cs",
+              "RelativeToolTip": "TaskConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:19:38.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\ClassesImportantes\\ThreadsForms\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadsForms\\Program.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\ClassesImportantes\\ThreadsForms\\Program.cs",
+              "RelativeToolTip": "ThreadsForms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T22:51:44.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\ClassesImportantes\\ThreadsForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ThreadsForms\\Form1.Designer.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\ClassesImportantes\\ThreadsForms\\Form1.Designer.cs",
+              "RelativeToolTip": "ThreadsForms\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T22:51:40.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\ClassesImportantes\\ThreadsForms\\Form1.resx",
+              "RelativeDocumentMoniker": "ThreadsForms\\Form1.resx",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\ClassesImportantes\\ThreadsForms\\Form1.resx",
+              "RelativeToolTip": "ThreadsForms\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-11T22:51:39.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\ClassesImportantes\\ThreadConsole\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadConsole\\Program.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\ClassesImportantes\\ThreadConsole\\Program.cs",
+              "RelativeToolTip": "ThreadConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T22:51:26.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\ClassesImportantes\\ThreadsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "ThreadsForms\\Form1.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\ClassesImportantes\\ThreadsForms\\Form1.cs",
+              "RelativeToolTip": "ThreadsForms\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCoAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T22:37:55.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\ClassesImportantes\\ClassesImportantes\\Form1.cs",
+              "RelativeDocumentMoniker": "ClassesImportantes\\Form1.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\ClassesImportantes\\ClassesImportantes\\Form1.cs [Design]",
+              "RelativeToolTip": "ClassesImportantes\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:42:10.131Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
