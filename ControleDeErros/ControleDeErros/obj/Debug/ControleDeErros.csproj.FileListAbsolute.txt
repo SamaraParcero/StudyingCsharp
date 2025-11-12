@@ -1,0 +1,11 @@
+G:\ProjetosGithub\CursoCSharp\ControleDeErros\ControleDeErros\bin\Debug\ControleDeErros.exe.config
+G:\ProjetosGithub\CursoCSharp\ControleDeErros\ControleDeErros\bin\Debug\ControleDeErros.exe
+G:\ProjetosGithub\CursoCSharp\ControleDeErros\ControleDeErros\bin\Debug\ControleDeErros.pdb
+G:\ProjetosGithub\CursoCSharp\ControleDeErros\ControleDeErros\obj\Debug\ControleDeErros.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\ControleDeErros\ControleDeErros\obj\Debug\ControleDeErros.Form1.resources
+G:\ProjetosGithub\CursoCSharp\ControleDeErros\ControleDeErros\obj\Debug\ControleDeErros.Properties.Resources.resources
+G:\ProjetosGithub\CursoCSharp\ControleDeErros\ControleDeErros\obj\Debug\ControleDeErros.csproj.GenerateResource.cache
+G:\ProjetosGithub\CursoCSharp\ControleDeErros\ControleDeErros\obj\Debug\ControleDeErros.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\ControleDeErros\ControleDeErros\obj\Debug\ControleDeErros.exe
+G:\ProjetosGithub\CursoCSharp\ControleDeErros\ControleDeErros\obj\Debug\ControleDeErros.pdb
+G:\ProjetosGithub\CursoCSharp\ControleDeErros\ControleDeErros\obj\Debug\ControleDeErros.exe.config
