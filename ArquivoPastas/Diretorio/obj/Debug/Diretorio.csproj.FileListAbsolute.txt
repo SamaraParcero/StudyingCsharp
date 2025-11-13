@@ -1,0 +1,11 @@
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\Diretorio\bin\Debug\Diretorio.exe.config
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\Diretorio\bin\Debug\Diretorio.exe
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\Diretorio\bin\Debug\Diretorio.pdb
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\Diretorio\obj\Debug\Diretorio.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\Diretorio\obj\Debug\Diretorio.Form1.resources
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\Diretorio\obj\Debug\Diretorio.Properties.Resources.resources
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\Diretorio\obj\Debug\Diretorio.csproj.GenerateResource.cache
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\Diretorio\obj\Debug\Diretorio.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\Diretorio\obj\Debug\Diretorio.exe
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\Diretorio\obj\Debug\Diretorio.pdb
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\Diretorio\obj\Debug\Diretorio.exe.config

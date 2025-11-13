@@ -1,0 +1,10 @@
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\ArquivoInfo\bin\Debug\ArquivoInfo.exe.config
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\ArquivoInfo\bin\Debug\ArquivoInfo.exe
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\ArquivoInfo\bin\Debug\ArquivoInfo.pdb
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.Form1.resources
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.Properties.Resources.resources
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.csproj.GenerateResource.cache
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.exe
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.pdb

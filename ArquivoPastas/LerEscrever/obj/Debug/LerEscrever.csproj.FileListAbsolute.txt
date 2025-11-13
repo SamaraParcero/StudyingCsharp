@@ -1,0 +1,11 @@
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\LerEscrever\bin\Debug\LerEscrever.exe.config
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\LerEscrever\bin\Debug\LerEscrever.exe
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\LerEscrever\bin\Debug\LerEscrever.pdb
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.Form1.resources
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.Properties.Resources.resources
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.csproj.GenerateResource.cache
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.exe
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.pdb
+G:\ProjetosGithub\CursoCSharp\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.exe.config

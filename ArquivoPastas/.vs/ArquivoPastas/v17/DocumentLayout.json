@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ProjetosGithub\\CursoCSharp\\ArquivoPastas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F008FC8-7D87-4B00-B664-830F5C6DE7D5}|LerEscrever\\LerEscrever.csproj|g:\\projetosgithub\\cursocsharp\\arquivopastas\\lerescrever\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F008FC8-7D87-4B00-B664-830F5C6DE7D5}|LerEscrever\\LerEscrever.csproj|solutionrelative:lerescrever\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AF3E9C-5B62-489C-9A13-74521B3DC4E5}|Arquivo\\Arquivo.csproj|g:\\projetosgithub\\cursocsharp\\arquivopastas\\arquivo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85AF3E9C-5B62-489C-9A13-74521B3DC4E5}|Arquivo\\Arquivo.csproj|solutionrelative:arquivo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F008FC8-7D87-4B00-B664-830F5C6DE7D5}|LerEscrever\\LerEscrever.csproj|g:\\projetosgithub\\cursocsharp\\arquivopastas\\lerescrever\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F008FC8-7D87-4B00-B664-830F5C6DE7D5}|LerEscrever\\LerEscrever.csproj|solutionrelative:lerescrever\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055BC066-220F-43D9-A670-4860CFF6E8A3}|DiretorioInfo\\DiretorioInfo.csproj|g:\\projetosgithub\\cursocsharp\\arquivopastas\\diretorioinfo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055BC066-220F-43D9-A670-4860CFF6E8A3}|DiretorioInfo\\DiretorioInfo.csproj|solutionrelative:diretorioinfo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055BC066-220F-43D9-A670-4860CFF6E8A3}|DiretorioInfo\\DiretorioInfo.csproj|g:\\projetosgithub\\cursocsharp\\arquivopastas\\diretorioinfo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{055BC066-220F-43D9-A670-4860CFF6E8A3}|DiretorioInfo\\DiretorioInfo.csproj|solutionrelative:diretorioinfo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A9C5CC-FF0A-4E66-B018-BE68A9ABC4A3}|Diretorio\\Diretorio.csproj|g:\\projetosgithub\\cursocsharp\\arquivopastas\\diretorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A9C5CC-FF0A-4E66-B018-BE68A9ABC4A3}|Diretorio\\Diretorio.csproj|solutionrelative:diretorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A9C5CC-FF0A-4E66-B018-BE68A9ABC4A3}|Diretorio\\Diretorio.csproj|g:\\projetosgithub\\cursocsharp\\arquivopastas\\diretorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65A9C5CC-FF0A-4E66-B018-BE68A9ABC4A3}|Diretorio\\Diretorio.csproj|solutionrelative:diretorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\ArquivoPastas\\Arquivo\\Form1.cs",
+              "RelativeDocumentMoniker": "Arquivo\\Form1.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\ArquivoPastas\\Arquivo\\Form1.cs",
+              "RelativeToolTip": "Arquivo\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:32:56.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\ArquivoPastas\\LerEscrever\\Form1.cs",
+              "RelativeDocumentMoniker": "LerEscrever\\Form1.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\ArquivoPastas\\LerEscrever\\Form1.cs",
+              "RelativeToolTip": "LerEscrever\\Form1.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwG0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:06:56.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\ArquivoPastas\\LerEscrever\\Form1.cs",
+              "RelativeDocumentMoniker": "LerEscrever\\Form1.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\ArquivoPastas\\LerEscrever\\Form1.cs [Design]",
+              "RelativeToolTip": "LerEscrever\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:04:00.045Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\ArquivoPastas\\DiretorioInfo\\Form1.cs",
+              "RelativeDocumentMoniker": "DiretorioInfo\\Form1.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\ArquivoPastas\\DiretorioInfo\\Form1.cs",
+              "RelativeToolTip": "DiretorioInfo\\Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwC4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T18:53:20.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\ArquivoPastas\\DiretorioInfo\\Form1.cs",
+              "RelativeDocumentMoniker": "DiretorioInfo\\Form1.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\ArquivoPastas\\DiretorioInfo\\Form1.cs [Design]",
+              "RelativeToolTip": "DiretorioInfo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T18:52:42.39Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\ArquivoPastas\\Diretorio\\Form1.cs",
+              "RelativeDocumentMoniker": "Diretorio\\Form1.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\ArquivoPastas\\Diretorio\\Form1.cs",
+              "RelativeToolTip": "Diretorio\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwDQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T18:21:28.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\ArquivoPastas\\Diretorio\\Form1.cs",
+              "RelativeDocumentMoniker": "Diretorio\\Form1.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\ArquivoPastas\\Diretorio\\Form1.cs [Design]",
+              "RelativeToolTip": "Diretorio\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T18:20:33.322Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
