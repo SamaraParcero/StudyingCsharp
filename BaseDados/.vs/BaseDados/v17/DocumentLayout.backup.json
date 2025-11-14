@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "BaseDados\\Form1.cs",
               "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\BaseDados\\BaseDados\\Form1.cs*",
               "RelativeToolTip": "BaseDados\\Form1.cs*",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAAGUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAMsBAAAAAAAAAAAAAJEBAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T20:46:23.406Z",
               "EditorCaption": ""
@@ -39,10 +39,11 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\BaseDados\\BaseDados\\Form1.cs",
               "RelativeDocumentMoniker": "BaseDados\\Form1.cs",
-              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\BaseDados\\BaseDados\\Form1.cs [Design]",
-              "RelativeToolTip": "BaseDados\\Form1.cs [Design]",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\BaseDados\\BaseDados\\Form1.cs [Design]*",
+              "RelativeToolTip": "BaseDados\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:43:30.664Z"
+              "WhenOpened": "2025-11-13T20:43:30.664Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
