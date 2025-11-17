@@ -41,7 +41,7 @@ namespace ProjectAsync
 
         private void button2_Click(object sender, EventArgs e)
         {
-            listaResultado.Items.Clear();
+            listaResultado.Items.Clear(); 
         }
     }
 }

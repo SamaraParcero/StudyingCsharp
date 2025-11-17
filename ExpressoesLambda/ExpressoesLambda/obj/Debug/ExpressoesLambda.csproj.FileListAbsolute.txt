@@ -1,0 +1,11 @@
+G:\ProjetosGithub\CursoCSharp\ExpressoesLambda\ExpressoesLambda\bin\Debug\ExpressoesLambda.exe.config
+G:\ProjetosGithub\CursoCSharp\ExpressoesLambda\ExpressoesLambda\bin\Debug\ExpressoesLambda.exe
+G:\ProjetosGithub\CursoCSharp\ExpressoesLambda\ExpressoesLambda\bin\Debug\ExpressoesLambda.pdb
+G:\ProjetosGithub\CursoCSharp\ExpressoesLambda\ExpressoesLambda\obj\Debug\ExpressoesLambda.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\ExpressoesLambda\ExpressoesLambda\obj\Debug\ExpressoesLambda.Form1.resources
+G:\ProjetosGithub\CursoCSharp\ExpressoesLambda\ExpressoesLambda\obj\Debug\ExpressoesLambda.Properties.Resources.resources
+G:\ProjetosGithub\CursoCSharp\ExpressoesLambda\ExpressoesLambda\obj\Debug\ExpressoesLambda.csproj.GenerateResource.cache
+G:\ProjetosGithub\CursoCSharp\ExpressoesLambda\ExpressoesLambda\obj\Debug\ExpressoesLambda.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\ExpressoesLambda\ExpressoesLambda\obj\Debug\ExpressoesLambda.exe
+G:\ProjetosGithub\CursoCSharp\ExpressoesLambda\ExpressoesLambda\obj\Debug\ExpressoesLambda.pdb
+G:\ProjetosGithub\CursoCSharp\ExpressoesLambda\ExpressoesLambda\obj\Debug\ExpressoesLambda.exe.config

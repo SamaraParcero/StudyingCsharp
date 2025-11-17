@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{C3D4BCAD-391C-4094-BA50-8B6B97CDBD6E}|ProjectAsync\\ProjectAsync.csproj|solutionrelative:projectasync\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3D4BCAD-391C-4094-BA50-8B6B97CDBD6E}|ProjectAsync\\ProjectAsync.csproj|g:\\projetosgithub\\cursocsharp\\projectasync\\projectasync\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C3D4BCAD-391C-4094-BA50-8B6B97CDBD6E}|ProjectAsync\\ProjectAsync.csproj|G:\\ProjetosGithub\\CursoCSharp\\ProjectAsync\\projectasync\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C3D4BCAD-391C-4094-BA50-8B6B97CDBD6E}|ProjectAsync\\ProjectAsync.csproj|solutionrelative:projectasync\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3D4BCAD-391C-4094-BA50-8B6B97CDBD6E}|ProjectAsync\\ProjectAsync.csproj|g:\\projetosgithub\\cursocsharp\\projectasync\\projectasync\\exemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3D4BCAD-391C-4094-BA50-8B6B97CDBD6E}|ProjectAsync\\ProjectAsync.csproj|G:\\ProjetosGithub\\CursoCSharp\\ProjectAsync\\projectasync\\exemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3D4BCAD-391C-4094-BA50-8B6B97CDBD6E}|ProjectAsync\\ProjectAsync.csproj|solutionrelative:projectasync\\exemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3D4BCAD-391C-4094-BA50-8B6B97CDBD6E}|ProjectAsync\\ProjectAsync.csproj|g:\\projetosgithub\\cursocsharp\\projectasync\\projectasync\\exemploasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3D4BCAD-391C-4094-BA50-8B6B97CDBD6E}|ProjectAsync\\ProjectAsync.csproj|G:\\ProjetosGithub\\CursoCSharp\\ProjectAsync\\projectasync\\exemploasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3D4BCAD-391C-4094-BA50-8B6B97CDBD6E}|ProjectAsync\\ProjectAsync.csproj|solutionrelative:projectasync\\exemploasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "ProjectAsync\\ExemploAsync.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T20:01:28.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T20:01:28.899Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "ProjectAsync\\Exemplo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T19:48:48.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T19:48:48.537Z"
             },
             {
               "$type": "Document",
@@ -62,7 +60,7 @@
               "RelativeDocumentMoniker": "ProjectAsync\\Form1.cs",
               "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\ProjectAsync\\ProjectAsync\\Form1.cs",
               "RelativeToolTip": "ProjectAsync\\Form1.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAEwCsAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T19:45:53.471Z",
               "EditorCaption": ""
@@ -76,8 +74,7 @@
               "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\ProjectAsync\\ProjectAsync\\Form1.cs [Design]",
               "RelativeToolTip": "ProjectAsync\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T19:30:25.973Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-17T19:30:25.973Z"
             }
           ]
         }
