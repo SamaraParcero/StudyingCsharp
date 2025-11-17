@@ -1,0 +1,12 @@
+G:\ProjetosGithub\CursoCSharp\TesteDLL\TesteDLL\bin\Debug\TesteDLL.exe.config
+G:\ProjetosGithub\CursoCSharp\TesteDLL\TesteDLL\bin\Debug\TesteDLL.exe
+G:\ProjetosGithub\CursoCSharp\TesteDLL\TesteDLL\bin\Debug\TesteDLL.pdb
+G:\ProjetosGithub\CursoCSharp\TesteDLL\TesteDLL\bin\Debug\Operacoes.dll
+G:\ProjetosGithub\CursoCSharp\TesteDLL\TesteDLL\obj\Debug\TesteDLL.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\TesteDLL\TesteDLL\obj\Debug\TesteDLL.Form1.resources
+G:\ProjetosGithub\CursoCSharp\TesteDLL\TesteDLL\obj\Debug\TesteDLL.Properties.Resources.resources
+G:\ProjetosGithub\CursoCSharp\TesteDLL\TesteDLL\obj\Debug\TesteDLL.csproj.GenerateResource.cache
+G:\ProjetosGithub\CursoCSharp\TesteDLL\TesteDLL\obj\Debug\TesteDLL.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\TesteDLL\TesteDLL\obj\Debug\TesteDLL.csproj.Up2Date
+G:\ProjetosGithub\CursoCSharp\TesteDLL\TesteDLL\obj\Debug\TesteDLL.exe
+G:\ProjetosGithub\CursoCSharp\TesteDLL\TesteDLL\obj\Debug\TesteDLL.pdb

@@ -1,0 +1,10 @@
+G:\ProjetosGithub\CursoCSharp\Imprimir\Imprimir\bin\Debug\Imprimir.exe.config
+G:\ProjetosGithub\CursoCSharp\Imprimir\Imprimir\bin\Debug\Imprimir.exe
+G:\ProjetosGithub\CursoCSharp\Imprimir\Imprimir\bin\Debug\Imprimir.pdb
+G:\ProjetosGithub\CursoCSharp\Imprimir\Imprimir\obj\Debug\Imprimir.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\Imprimir\Imprimir\obj\Debug\Imprimir.Form1.resources
+G:\ProjetosGithub\CursoCSharp\Imprimir\Imprimir\obj\Debug\Imprimir.Properties.Resources.resources
+G:\ProjetosGithub\CursoCSharp\Imprimir\Imprimir\obj\Debug\Imprimir.csproj.GenerateResource.cache
+G:\ProjetosGithub\CursoCSharp\Imprimir\Imprimir\obj\Debug\Imprimir.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\Imprimir\Imprimir\obj\Debug\Imprimir.exe
+G:\ProjetosGithub\CursoCSharp\Imprimir\Imprimir\obj\Debug\Imprimir.pdb

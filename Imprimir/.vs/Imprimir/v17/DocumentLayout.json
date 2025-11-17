@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ProjetosGithub\\CursoCSharp\\Imprimir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E189D1D-CF6E-432C-928B-146170146C6A}|Imprimir\\Imprimir.csproj|G:\\ProjetosGithub\\CursoCSharp\\Imprimir\\imprimir\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E189D1D-CF6E-432C-928B-146170146C6A}|Imprimir\\Imprimir.csproj|solutionrelative:imprimir\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E189D1D-CF6E-432C-928B-146170146C6A}|Imprimir\\Imprimir.csproj|G:\\ProjetosGithub\\CursoCSharp\\Imprimir\\imprimir\\matematica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E189D1D-CF6E-432C-928B-146170146C6A}|Imprimir\\Imprimir.csproj|solutionrelative:imprimir\\matematica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E189D1D-CF6E-432C-928B-146170146C6A}|Imprimir\\Imprimir.csproj|G:\\ProjetosGithub\\CursoCSharp\\Imprimir\\imprimir\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E189D1D-CF6E-432C-928B-146170146C6A}|Imprimir\\Imprimir.csproj|solutionrelative:imprimir\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5613E95C-9F26-4B9A-BF84-3301A603B8E1}|Operacoes\\Operacoes.csproj|g:\\projetosgithub\\cursocsharp\\imprimir\\operacoes\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5613E95C-9F26-4B9A-BF84-3301A603B8E1}|Operacoes\\Operacoes.csproj|solutionrelative:operacoes\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\Imprimir\\Operacoes\\Class1.cs",
+              "RelativeDocumentMoniker": "Operacoes\\Class1.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\Imprimir\\Operacoes\\Class1.cs",
+              "RelativeToolTip": "Operacoes\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T20:51:12.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\Imprimir\\Imprimir\\Form1.cs",
+              "RelativeDocumentMoniker": "Imprimir\\Form1.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\Imprimir\\Imprimir\\Form1.cs",
+              "RelativeToolTip": "Imprimir\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAawBsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T20:48:11.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matematica.cs",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\Imprimir\\Imprimir\\Matematica.cs",
+              "RelativeDocumentMoniker": "Imprimir\\Matematica.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\Imprimir\\Imprimir\\Matematica.cs",
+              "RelativeToolTip": "Imprimir\\Matematica.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T20:43:34.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\ProjetosGithub\\CursoCSharp\\Imprimir\\Imprimir\\Form1.cs",
+              "RelativeDocumentMoniker": "Imprimir\\Form1.cs",
+              "ToolTip": "G:\\ProjetosGithub\\CursoCSharp\\Imprimir\\Imprimir\\Form1.cs [Design]",
+              "RelativeToolTip": "Imprimir\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T20:03:47.517Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

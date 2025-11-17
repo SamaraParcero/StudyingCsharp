@@ -1,0 +1,11 @@
+G:\ProjetosGithub\CursoCSharp\ProjectAsync\ProjectAsync\obj\Debug\ProjectAsync.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\ProjectAsync\ProjectAsync\obj\Debug\ProjectAsync.Form1.resources
+G:\ProjetosGithub\CursoCSharp\ProjectAsync\ProjectAsync\obj\Debug\ProjectAsync.Properties.Resources.resources
+G:\ProjetosGithub\CursoCSharp\ProjectAsync\ProjectAsync\obj\Debug\ProjectAsync.csproj.GenerateResource.cache
+G:\ProjetosGithub\CursoCSharp\ProjectAsync\ProjectAsync\obj\Debug\ProjectAsync.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\ProjectAsync\ProjectAsync\bin\Debug\ProjectAsync.exe.config
+G:\ProjetosGithub\CursoCSharp\ProjectAsync\ProjectAsync\bin\Debug\ProjectAsync.exe
+G:\ProjetosGithub\CursoCSharp\ProjectAsync\ProjectAsync\bin\Debug\ProjectAsync.pdb
+G:\ProjetosGithub\CursoCSharp\ProjectAsync\ProjectAsync\obj\Debug\ProjectAsync.exe
+G:\ProjetosGithub\CursoCSharp\ProjectAsync\ProjectAsync\obj\Debug\ProjectAsync.pdb
+G:\ProjetosGithub\CursoCSharp\ProjectAsync\ProjectAsync\obj\Debug\ProjectAsync.exe.config

@@ -1,0 +1,6 @@
+G:\ProjetosGithub\CursoCSharp\Imprimir\Operacoes\bin\Debug\Operacoes.dll
+G:\ProjetosGithub\CursoCSharp\Imprimir\Operacoes\bin\Debug\Operacoes.pdb
+G:\ProjetosGithub\CursoCSharp\Imprimir\Operacoes\obj\Debug\Operacoes.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\Imprimir\Operacoes\obj\Debug\Operacoes.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\Imprimir\Operacoes\obj\Debug\Operacoes.dll
+G:\ProjetosGithub\CursoCSharp\Imprimir\Operacoes\obj\Debug\Operacoes.pdb

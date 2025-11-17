@@ -1,0 +1,11 @@
+G:\ProjetosGithub\CursoCSharp\Criptografia\Criptografia\bin\Debug\Criptografia.exe.config
+G:\ProjetosGithub\CursoCSharp\Criptografia\Criptografia\bin\Debug\Criptografia.exe
+G:\ProjetosGithub\CursoCSharp\Criptografia\Criptografia\bin\Debug\Criptografia.pdb
+G:\ProjetosGithub\CursoCSharp\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.AssemblyReference.cache
+G:\ProjetosGithub\CursoCSharp\Criptografia\Criptografia\obj\Debug\Criptografia.Form1.resources
+G:\ProjetosGithub\CursoCSharp\Criptografia\Criptografia\obj\Debug\Criptografia.Properties.Resources.resources
+G:\ProjetosGithub\CursoCSharp\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.GenerateResource.cache
+G:\ProjetosGithub\CursoCSharp\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.CoreCompileInputs.cache
+G:\ProjetosGithub\CursoCSharp\Criptografia\Criptografia\obj\Debug\Criptografia.exe
+G:\ProjetosGithub\CursoCSharp\Criptografia\Criptografia\obj\Debug\Criptografia.pdb
+G:\ProjetosGithub\CursoCSharp\Criptografia\Criptografia\obj\Debug\Criptografia.exe.config
